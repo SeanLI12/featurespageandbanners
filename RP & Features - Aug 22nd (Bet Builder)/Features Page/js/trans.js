@@ -137,10 +137,10 @@ const translationData = [
     en: "BET BUILDER",
     zh: "创造玩法",
     vi: "Cược Tùy Chọn",
-    id: "Pembuat Taruhan",
+    id: "BET BUILDER",
     th: "สร้างบิลสเต็ป",
     ko: "베팅빌더",
-    pt: "Bet Builder",
+    pt: "Criar Aposta",
     km: "ការបង្កើតប័ណ្ណភ្នាល់",
     ja: "ベットビルダー",
   },
@@ -148,7 +148,7 @@ const translationData = [
     trans_id: "feature_1_content",
     en: [
       "Bet Builder is a type of bet where you can combine selections from the same event into a single bet – a same-event parlay or multiple!",
-      "Bet Builder is available for selected Football matches.",
+      "Bet Builder is now available for selected Football matches.",
       "Select a match and look for the ‘Bet Builder’ tab.",
     ],
     zh: [
@@ -162,9 +162,9 @@ const translationData = [
       "Chọn 1 trận đấu và tìm kiếm tab ‘Cược Tùy Chọn’.",
     ],
     id: [
-      "Pembuat Taruhan adalah jenis taruhan di mana Anda dapat menggabungkan pilihan dari pertandingan yang sama menjadi satu taruhan – pertandingan parlay yang sama atau beberapa!",
-      "Pembuat Taruhan sekarang tersedia untuk pertandingan Sepak Bola tertentu.",
-      "Pilih pertandingan dan cari tab ‘Pembuat Taruhan’.",
+      "Bet Builder adalah jenis taruhan di mana Anda dapat menggabungkan pilihan dari pertandingan yang sama menjadi satu taruhan – pertandingan parlay yang sama atau beberapa!",
+      "Bet Builder sekarang tersedia untuk pertandingan Sepak Bola tertentu.",
+      "Pilih pertandingan dan cari tab ‘Bet Builder’.",
     ],
     th: [
       '"สร้างบิลสเต็ป" ฟีเจอร์ใหม่ที่คุณสามารถเลือกเดิมพันได้หลายประเภทพร้อมกันในแมทช์เดียว',
@@ -177,9 +177,9 @@ const translationData = [
       "경기를 선택하고 '베팅빌더' 탭을 확인하세요. ",
     ],
     pt: [
-      "O Bet Builder é um tipo de aposta em que você pode combinar seleções do mesmo evento em uma única aposta –  no mesmo evento parlay ou multiplas!",
-      "O Bet Builder agora está disponível para partidas de futebol selecionadas.",
-      "Selecione uma partida e procure a guia ‘Bet Builder’.",
+      "A função Criar Aposta é um recurso que permite você criar uma aposta múltipla no mesmo evento, combinando diversos mercados do mesmo jogo em uma única aposta.",
+      "A função Criar Aposta agora está disponível para partidas de futebol selecionadas.",
+      "Selecione um evento e procure a opção ‘Criar Aposta’.",
     ],
     km: [
       "ការបង្កើតប័ណ្ណភ្នាល់ គឺ​ជា​ប្រភេទ​នៃ​ការ​ភ្នាល់មួយ ដែលអ្នក​អាចច្របាច់​បញ្ចូល​គ្នា​រេវាង​ជម្រើស​​នានា ពី​ព្រឹត្តិ​ការណ៍​តែមួយទៅ​ក្នុង​ប័ណ្ណភ្នាល់ទោល - ដូច​ទៅនឹង​ការ​ភ្នាល់​គូ​បក ឬ ​ការ​ភ្នាល់​គូ​ចម្រុះ!",
@@ -238,7 +238,7 @@ const translationData = [
       "베팅 내역에서 캐시 아웃 가능 유무를 확인할 수 있습니다.",
     ],
     pt: [
-      "O Cash Out oferece aos membros a possibilidade de liquidar uma aposta simples ou acumulada antes que os eventos relacionados terminem.",
+      "O Cash Out oferece aos membros a possibilidade de encerrar uma aposta simples ou acumulada antes que os eventos relacionados terminem.",
       "O valor exibido é o valor a ser devolvido à sua conta caso você opte por confirmar o processo.",
       "Vá para Minhas Apostas para ver suas possibilidades de Cash Out.",
     ],
@@ -299,9 +299,9 @@ const translationData = [
       "고배당은 배당 페이지에서 초록색 아이콘으로 표시됩니다.",
     ],
     pt: [
-      "Os aumentos de preço permitem que sejam colocadas valores limitadas em cotações melhoradas que são superiores às cotações de mercado.",
-      "Eles estão disponíveis para vários mercados em diferentes esportes e competições.",
-      "Procure o ícone Preço em Verde Melhorado ao navegar nas páginas de cotações.",
+      "As Cotações Turbo permitem que sejam apostados valores limitados sobre cotações melhoradas, as quais são superiores às cotações habituais de mercado.",
+      "Elas estão disponíveis para vários mercados em diferentes esportes e competições.",
+      "Procure pelo ícone em verde 'Cotação Turbo' ao navegar nas páginas de eventos esportivos.",
     ],
     km: [
       "តម្លៃពិសេស អនុ​ញ្ញាត​ឲ្យ​ដាក់​ប្រាក់​ភ្នាល់​មាន​កំណត់ នៅលើ​តម្លៃ​ហាង​ឆេងកើន​ឡើង ដែល​ខ្ពស់​ជាង​តម្លៃ​ទីផ្សារ​។",
@@ -355,7 +355,7 @@ const translationData = [
     ],
     pt: [
       "Personalize sua aposta!",
-      "MEUS EVENTOS: Selecionar o ícone de estrela para qualquer Evento permitirá que você o adicione à seção Meus Eventos.",
+      "MEUS EVENTOS: Selecione o ícone de uma Estrela sobre o evento desejado, para adicionar o mesmo à seção 'Meus Eventos'.",
     ],
     km: [
       "កែ​សម្រួល 188BET ដើម្បី​ស័ក្តិ​សម​នឹង​អ្នក!",
@@ -385,7 +385,7 @@ const translationData = [
       "선호하는 스포츠: 경기 옆 별 모양 아이콘을 눌러 스포츠 목록을 내가 원하는 순서대로 변경할 수 있습니다.",
     ],
     pt: [
-      "MINHAS COMPETIÇÕES: Selecionar o ícone de estrela ao lado de uma Competição priorizará suas Competições favoritas.",
+      "MINHAS COMPETIÇÕES: Selecione o ícone de uma Estrela sobre uma Competição, isso priorizará suas competições favoritas.",
     ],
     km: [
       "ការ​ប្រកួត​របស់​ខ្ញុំ៖ ជ្រើស​រើស​សញ្ញា​ផ្កាយ ក្បែរ​ការ​ប្រកួតមួយ នឹង​កំណត់​អាទិភាពការ​ប្រកួត​នានា​ដែល​អ្នក​ចូល​ចិត្ត​​ជាង​គេ​។",
@@ -415,7 +415,7 @@ const translationData = [
       "선호하는 스포츠: 경기 시작 전 혹은 인플레이(실시간) 배당률 페이지에서 별 모양 아이콘을 눌러 왼쪽 메뉴에 명시된 스포츠 목록을 내가 원하는 순서대로 변경할 수 있습니다.",
     ],
     pt: [
-      "MEUS ESPORTES: Selecionar o ícone de estrela ao lado de qualquer esporte no Menu Esquerdo priorizará a posição desse esporte nas páginas de cotações Ao Vivo e Pré-Início",
+      "MEUS ESPORTES: Selecione o ícone de uma Estrela ao lado de qualquer esporte dentro do Menu esquerdo, isso priorizará a posição desse esporte nas páginas de cotações, Ao Vivo e Pré-Início.",
     ],
     km: [
       "កីឡា​របស់​ខ្ញុំ៖ ជ្រើស​រើស​សញ្ញា​ផ្កាយ ក្បែរ​កីឡា​​ណា​មួយ ត្រង់​មីនុយ​ខាង​ឆ្វេង នឹង​កំណត់​អាទិភាព​ទី​តាំង​នៃ​កីឡា​នេះ នៅក្នុង​ទំព័រ​ហាង​ឆេង កំពុង​លេង និងមុនប្រកួត។",
@@ -465,7 +465,7 @@ const translationData = [
     ],
     pt: [
       "Ver mais mercados na página dos Eventos",
-      "Veja todas as linhas de 'Handicap e OU' na página de Eventos pressionando o botão e estendendo o painel sob o evento. Outros mercados como Escanteios e Bookings também podem ser visualizados na página de Eventos, quando disponíveis.",
+      "Veja todas as linhas de 'Handicap e OU' na página de Eventos, pressionando o botão e estendendo o painel sob o evento. Outros mercados como Escanteios e Cartões também podem ser visualizados na página de 'Meus Eventos', quando disponíveis.",
     ],
     km: [
       "មើលទីផ្សារភ្នាល់ច្រើនទៀតនៅលើទំព័រកីឡា។",
@@ -589,7 +589,7 @@ const translationData = [
     id: "TARUHAN CEPAT PARLAY",
     th: "สเต็ปบิลด่วน",
     ko: "팔레이 퀵 베팅",
-    pt: "APOSTA RÁPIDA PARLAY",
+    pt: "APOSTA RÁPIDA MÚLTIPLA",
     km: "ការ​ភ្នាល់​គូ​បក​រហ័ស",
     ja: "パーレイクイックベット",
   },
@@ -626,9 +626,9 @@ const translationData = [
       "베팅 내역의 퀵 베팅 기능을 이용해 베팅 슬립에 이전 팔레이 항목을 한 번에 추가할 수 있습니다.",
     ],
     pt: [
-      "Às vezes, uma seleção em um parlay perde e você deseja colocar outro parlay com as seleções restantes.",
-      "Ou talvez você queira colocar outro parlay com a maioria das mesmas seleções em uma combinação diferente.",
-      "Em vez de adicionar todas as seleções ao seu Boletim de Apostas novamente, uma por uma, você pode usar o recurso de Adição Rápida em Minhas Apostas para adicionar todas as seleções disponíveis de um parlay anterior de volta ao seu Boletim de Apostas.",
+      "Às vezes, uma seleção em uma aposta múltipla perde e você deseja colocar outra múltipla com as seleções restantes.",
+      "Ou talvez, você queira colocar outra aposta múltipla com a maioria das mesmas seleções, contudo, em uma combinação diferente.",
+      "Em vez de adicionar todas as seleções ao seu Boletim de Apostas novamente, uma por uma, você pode usar o recurso de Adição Rápida em Minhas Apostas para adicionar todas as seleções disponíveis de uma aposta múltipla de volta ao seu Boletim de Apostas.",
     ],
     km: [
       "ពេល​ខ្លះ ជម្រើស​នៃការ​ភ្នាល់​មួយ​ក្នុងគូ​បកដែលចាញ់ ហើយ​អ្នក​ចង់​ភ្នាល់​គូ​បក​ផ្សេង​ទៀត ជា​មួយនឹង​ជម្រើស​ដែលនៅសល់​។ ",
