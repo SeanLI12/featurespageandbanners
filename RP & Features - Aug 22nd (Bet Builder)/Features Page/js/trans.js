@@ -114,7 +114,7 @@ const translationData = [
   {
     trans_id: "introductory_text",
     en: ["Some of our more popular Sportsbook features are listed below."],
-    zh: ["以下会列出一些我们体育网页中的特殊功能。"],
+    zh: ["以下会列出体育网页的功能特色。"],
     vi: [
       "Một số loại cược thể thao phổ biến tại 188BET được liệt kê dưới đây.",
     ],
@@ -152,9 +152,9 @@ const translationData = [
       "Select a match and look for the ‘Bet Builder’ tab.",
     ],
     zh: [
-      "创造玩法是一种可以让您在同一场赛事中自行组合成为一个单一盘口 -- 犹如同场赛事的连串过关或复式过关!",
-      "一些特定的足球赛事已有创造玩法。",
-      "选一场赛事后寻找‘创造玩法’的分页。",
+      "创造玩法是一种可以让您在同一场赛事中自行组合盘口成为一个注单 -- 犹如同场赛事的连串过关或复式过关!",
+      "足球现已推出创造玩法。",
+      "选一场赛事后寻找‘创造玩法’的选项。",
     ],
     vi: [
       "Cược Tùy Chọn là một loại cược mà Quý Khách có thể kết hợp các lựa chọn từ cùng một trận đấu thành một cược đơn hoặc một cược xâu từ cùng trận đấu!",
@@ -213,9 +213,9 @@ const translationData = [
       "Go to My Bets to see your Cash Out possibilities.",
     ],
     zh: [
-      "提前结算功能让会员能够在赛事结束前结算单一或连串的投注。",
-      "如您选择确认进行，目前显示的会是返回您的帐户的数目。",
-      "请到我的赛事以查看有无提前结算的可能。",
+      "提前结算功能让会员在赛事结束前，提早结算单一或连串的投注。",
+      "如果您选择确认进行，目前显示的金额将返回您的账户。",
+      "请到投注记录查看可否提前结算注单。",
     ],
     vi: [
       "Trả Cược Sớm cung cấp cho các thành viên khả năng thanh toán một hoặc nhiều cược trước khi các sự kiện liên quan kết thúc.",
@@ -274,7 +274,7 @@ const translationData = [
       "Look for the Green Price Boost icon when browsing odds pages.",
     ],
     zh: [
-      "在有限的投注金额投注特优赔率可享受比市面上还高的赔率。",
+      "特优赔率允许将有限的投注金额投注在高于市场的赔率。",
       "在不同的体育和联赛都会有特优赔率。",
       "浏览赔率页面的时候，请留意绿色的特优赔率图标。",
     ],
@@ -318,7 +318,7 @@ const translationData = [
   {
     trans_id: "feature_4_header",
     en: "MY EVENTS / MY COMPETITIONS /  MY SPORTS",
-    zh: "我的赛事 / 我的联赛 / 我的项目",
+    zh: "我的赛事 / 我的联赛 / 我的体育",
     vi: "TRẬN ĐẤU CỦA TÔI/ GIẢI ĐẤU YÊU THÍCH/ MÔN THỂ THAO YÊU THÍCH",
     id: "FAVORIT SAYA /  KOMPETISI FAVORIT/  OLAHRAGA FAVORIT",
     th: "การแข่งขันของฉัน / รายการโปรด / กีฬาโปรด",
@@ -334,8 +334,8 @@ const translationData = [
       "MY EVENTS: Selecting the star icon for any Event will allow you to add it to the My Events section.",
     ],
     zh: [
-      "自定适合自己的 188金宝博！",
-      "我的赛事：点选在各赛事的星图可把该赛事加入我的赛事页。",
+      "自订适合自己的188金宝博！",
+      "我的赛事：点选在赛事旁的星图可把该赛事加入我的赛事偏好。",
     ],
     vi: [
       "Cá nhân hóa 188BET theo sở thích!",
@@ -400,7 +400,7 @@ const translationData = [
       "MY SPORTS: Selecting the star icon beside any sport in the Left Menu, will prioritise the position of this sport within the In-Play and Prestart odds pages.",
     ],
     zh: [
-      "我的体育：点选在菜单里任一体育类别旁的星图可把该体育在每个盘口页面的位置往前移。",
+      "我的体育：点选在菜单里任一体育类别旁的星图可把该体育类别往前移至显眼的位置。",
     ],
     vi: [
       "MÔN THỂ THAO YÊU THÍCH: Chọn biểu tượng ngôi sao bên cạnh bất kỳ môn thể thao nào tại thanh Menu bên trái, sẽ ưu tiên vị trí của môn thể thao đấy trong các trang tỷ lệ cược Trong Trận và Trước Trận. ",
@@ -601,9 +601,9 @@ const translationData = [
       "Rather than adding all the selections to your Bet Slip again one by one, you can use the Quick-Add feature in My Bets to add all available selections from a previous parlay back to your Bet Slip.",
     ],
     zh: [
-      "有时候复式过关中的其中一个投注输了，但您仍想要以其他投注来建立新的复式过关。",
-      "又或者您想要以类似的投注组合来下注另一个复式过关。",
-      "与其再次将投注一个一个放回下注单，您可以使用快速加回的功能一次把上次的的复式过关投注加回你的下注单。",
+      "有时候连串过关中的其中一个盘口输了，但您仍想要以剩余的盘口组合来建立新的连串过关。",
+      "或者您想要以类似的盘口组合来投注另一个的连串过关。",
+      "与其再次将投注的盘口一个一个放回注单，您可以使用快速加回功能，一次把上次的连串过关的投注组合加入注单。",
     ],
     vi: [
       "Đôi khi một lựa chọn trong một vé cược xâu thua và Quý Khách muốn đặt một cược xâu khác sử dụng các lựa chọn còn lại.",
@@ -644,7 +644,7 @@ const translationData = [
   {
     trans_id: "learn-more-link",
     en: "Learn More",
-    zh: "了解更多",
+    zh: "查看更多",
     vi: "TÌM HIỂU THÊM",
     id: "PELAJARI LEBIH LANJUT",
     th: "อ่านเพิ่มเติม",

@@ -66,7 +66,7 @@ const translationData = [
   {
     trans_id: "right_banner_2_learn_more",
     en: "Learn More",
-    zh: "了解更多",
+    zh: "查看更多",
     vi: "TÌM HIỂU THÊM",
     id: "PELAJARI LEBIH LANJUT",
     th: "อ่านเพิ่มเติม",
@@ -93,9 +93,7 @@ const translationData = [
     en: [
       "Extensive Live content is available across various In-Play Sports. Regional Restrictions may apply.",
     ],
-    zh: [
-      "总地来说所有滚球比赛皆有即时播报内容，但有可能因为地区而受到播放的限制。",
-    ],
+    zh: ["所有滚球比赛皆有即时播报内容，但可能因为地区而受到播放的限制"],
     vi: [
       "Nội dung Trực tiếp mở rộng có sẵn trên nhiều môn Thể thao Trong Trận khác nhau. Các Hạn Chế Khu Vực có thể được áp dụng.",
     ],
@@ -121,7 +119,7 @@ const translationData = [
   {
     trans_id: "right_banner_3_learn_more",
     en: "Learn More",
-    zh: "了解更多",
+    zh: "查看更多",
     vi: "TÌM HIỂU THÊM",
     id: "PELAJARI LEBIH LANJUT",
     th: "อ่านเพิ่มเติม",
@@ -146,7 +144,7 @@ const translationData = [
   {
     trans_id: "right_banner_4_content",
     en: "Check out our available markets for ATP & WTA (Tennis), NFL (American Football) and NHL (Ice Hockey)",
-    zh: "來看看我们的网球ATP世界巡回赛与WTA女子世界巡回赛，NFL超级杯美式足球以及NHL国家杯冰球赛事盘口。",
+    zh: "查看我们的网球ATP世界巡回赛、WTA女子世界巡回赛，NFL超级杯美式足球以及NHL国家杯冰球赛事盘口。",
     vi: "Tìm hiểu thêm các cược khả dụng của chúng tôi cho ATP & WTA (Quần vợt), NFL (Bóng Bầu Dục Mỹ) và NHL (Khúc Côn Cầu Sân băng)",
     id: "Lihat pasaran kami yang tersedia untuk ATP dan WTA (Tenis), NFL (American Football), dan NHL (Hoki Es)",
     th: "เช็คราคาต่อรองที่ดีที่สุดของการแข่งขันเทนนิส ATP & WTA, อเมริกันฟุตบอล NFL และฮอกกี้น้ำแข็ง NHL ",
@@ -158,7 +156,7 @@ const translationData = [
   {
     trans_id: "right_banner_4_learn_more",
     en: "Learn More",
-    zh: "了解更多",
+    zh: "查看更多",
     vi: "TÌM HIỂU THÊM",
     id: "PELAJARI LEBIH LANJUT",
     th: "อ่านเพิ่มเติม",
