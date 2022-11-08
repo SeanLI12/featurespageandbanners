@@ -38,7 +38,7 @@ body {
   background: black;
   margin-bottom: 0.8rem;
   min-height: 18rem;
-  max-width: 640px;
+  /* max-width: 640px; */
   min-width: 326px;
   width: 100%;
 }
@@ -155,7 +155,6 @@ body {
 .right-panel {
   box-shadow: rgba(0, 0, 0, 0.32) -1px 0px 5px 0px;
   height: 100%;
-  max-width: 64rem;
   min-width: 32.6rem;
   overflow-x: hidden;
   overflow-y: scroll;
