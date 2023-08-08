@@ -76,7 +76,7 @@ const translationData = [
   // Right Banner #3
   {
     trans_id: "right_banner_3_title",
-    en: "New HDP & O/U Template",
+    en: "NEW HDP & O/U VIEW",
     zh: "全新让球和大/小模板",
     vi: "Cược Chấp & Trên/Dưới Mới",
     id: "HDP & Atas/Bawah Baru",
