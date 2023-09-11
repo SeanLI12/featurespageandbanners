@@ -11,6 +11,7 @@ const translationData = [
     pt: "Cash Out Auto",
     km: "Cash Out ស្វ័យប្រវត្តិ",
     ja: "自動キャッシュアウト",
+    hi: "ऑटोकैश आउट",
   },
   {
     trans_id: "right_banner_1_content",
@@ -23,6 +24,7 @@ const translationData = [
     pt: "Defina um valor de Cash Out que pode ser sacado automaticamente - mesmo se você não estiver ativo dentro da página de Esportes.",
     km: "កំណត់ចំនួន Cash Out ដែលអាច Cash Out ដោយស្វ័យប្រវត្តិ - ទោះបីជាអ្នកមិនមានសកម្មភាព​នៅក្នុងល្បែងកីឡាក៏ដោយ។",
     ja: "キャッシュアウト金額を設定すれば、ログインしていなくても自動キャッシュアウトが可能に！",
+    hi: "एक कैश आउट मूल्य निर्धारित करें जिसे स्वचालित रूप से कैश आउट किया जा सके - भले ही आप स्पोर्ट्सबुक के भीतर सक्रिय न हों",
   },
   {
     trans_id: "right_banner_1_learn_more",
@@ -35,6 +37,7 @@ const translationData = [
     pt: "Saiba Mais",
     km: "មើល​បន្ថែមទៀត",
     ja: "詳細を見る",
+    hi: "और अधिक जानें",
   },
   // Right Banner #2
   {
@@ -48,6 +51,7 @@ const translationData = [
     pt: "Aposta Combinada",
     km: "ការប្រកួតគូបក",
     ja: "マッチパーレイ",
+    hi: "मैचपार्ले",
   },
   {
     trans_id: "right_banner_2_content",
@@ -60,6 +64,7 @@ const translationData = [
     pt: "Combine até 4 mercados populares do mesmo evento. Disponível no Pré-jogo ou Ao-vivo!",
     km: "ច្របាច់​​ទីផ្សារពេញនិយមរហូតដល់4បញ្ចូល​គ្នា ពីព្រឹត្តិការណ៍តែមួយ។ អាច​ប្រើ​បាន​មុន​ពេល​ចាប់ផ្តើមប្រកួត និងក្នុង​ពេលកំពុងលេង​!",
     ja: "1イベントで最大4つの人気マーケットが選べる！試合前&インプレーで提供中！",
+    hi: "एक ही इवेंट से अधिकतम 4 लोकप्रिय बाज़ारों को संयोजित करें। प्रीस्टार्ट और इन-प्ले उपलब्ध!",
   },
   {
     trans_id: "right_banner_2_learn_more",
@@ -72,6 +77,7 @@ const translationData = [
     pt: "Saiba Mais",
     km: "មើល​បន្ថែមទៀត",
     ja: "詳細を見る",
+    hi: "और अधिक जानें",
   },
   // Right Banner #3
   {
@@ -85,6 +91,7 @@ const translationData = [
     pt: "Novo padrão HDP & O/U",
     km: "គំរូថ្មី គ្រាប់ត & លើស/ក្រោម",
     ja: "ハンデ&オ/ア",
+    hi: "नया एचडीपी और ओ/यू व्यू",
   },
   {
     trans_id: "right_banner_3_content",
@@ -97,6 +104,7 @@ const translationData = [
     pt: "Nova visualização de Handicap e Acima/Abaixo. Veja todas as linhas disponíveis para esses mercados populares.",
     km: "ការ​បង្ហាញ​រូប​ភាព​ថ្មីនៃ​ហាងឆេង HDP និង​ O/U។ សូមពិនិត្យមើលជម្រើសទាំងអស់ដែលមានសម្រាប់ទីផ្សារដ៏ពេញនិយមនេះ។",
     ja: "新ハンディキャップ&オーバー/アンダーの人気マーケットをチェック",
+    hi: "नया एचडीपी और ओ/यू व्यू. इन लोकप्रियबाज़ारों के लिए सभीउपलब्ध लाइनें देखें।",
   },
   {
     trans_id: "right_banner_3_learn_more",
@@ -109,6 +117,7 @@ const translationData = [
     pt: "Saiba Mais",
     km: "មើល​បន្ថែមទៀត",
     ja: "詳細を見る",
+    hi: "और अधिक जानें",
   },
   // Right Banner #4
   {
@@ -122,6 +131,7 @@ const translationData = [
     pt: "DADOS AO VIVO E TV",
     km: "ទិន្នន័យ​ និង​ទូរ​ទស្សន៍ផ្សាយ​ផ្ទាល់",
     ja: "ライブデータ & TV",
+    hi: "लाइवटीवी स्ट्रीमिंग",
   },
   {
     trans_id: "right_banner_4_content",
@@ -134,6 +144,7 @@ const translationData = [
     pt: "Procure o ícone de reprodução (Play) para ativar a transmissão do evento no ao vivo, se disponível. Restrições regionais podem ser aplicadas.",
     km: "រកមើលរូបតំណាងចាក់ផ្សាយ ដើម្បីបើកដំណើរការការផ្សាយផ្ទាល់លើការផ្តល់ជូនក្នុង​​ពេល​កំពុង​លេងដ៏ទូលំទូលាយរបស់យើង។ ច្បាប់​តាម​តំបន់អាចត្រូវបានអនុវត្ត។",
     ja: "インプレーで「視聴する」をクリックしてライブストリーミングをオン！国によって規制がかかることがあります。",
+    hi: "हमारीव्यापक इन-प्ले पेशकशोंमें लाइव स्ट्रीमिंग सक्रियकरने के लिए प्लेआइकन देखें। क्षेत्रीय प्रतिबंध लागू हो सकतेहैं.",
   },
   {
     trans_id: "right_banner_4_learn_more",
@@ -146,6 +157,7 @@ const translationData = [
     pt: "Saiba Mais",
     km: "មើល​បន្ថែមទៀត",
     ja: "詳細を見る",
+    hi: "और अधिक जानें",
   },
 ];
 
