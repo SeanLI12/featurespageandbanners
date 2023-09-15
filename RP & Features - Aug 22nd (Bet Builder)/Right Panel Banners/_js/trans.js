@@ -160,7 +160,6 @@ const translationData = [
     hi: "और अधिक जानें",
   },
 ];
-
 // Language Code of the HTML file
 const { lang } = document.documentElement;
 
