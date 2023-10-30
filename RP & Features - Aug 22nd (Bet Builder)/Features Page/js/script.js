@@ -7,6 +7,20 @@
 //   }
 // });
 
+
+const queryString = window.location.search,
+  urlParams = new URLSearchParams(queryString);
+
+let ruleTheme=urlParams.get('theme');
+if(ruleTheme!=null){
+  let ctTheme=ruleTheme.toUpperCase();
+  ctTheme=="DARK" ? document.querySelectorAll("link")[0].href=`../../css/style_${ctTheme}.css` : false;
+  ctTheme=="WLB_DARK" ? document.querySelectorAll("link")[0].href=`../../css/style_${ctTheme}.css` : false;
+  ctTheme=="WLB_LIGHT" ? document.querySelectorAll("link")[0].href=`../../css/style_${ctTheme}.css` : false;
+}
+
+
+
 let distEvent;
 
 window.onmessage = function(event) {
